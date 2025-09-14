@@ -57,8 +57,8 @@ Security was addressed using the **Secure Software Development Life Cycle (SecSD
 ## 5. Team Contributions
 | Role                         | Member          | Contribution Area                              |
 |------------------------------|-----------------|------------------------------------------------|
-| Scrum Master & Developer     | Adishree Gupta  | Sprint facilitation, Agile documentation, development contributions |
-| Developer                    | Akshat          | Machine Learning, Testing                      |
+| Scrum Master & Developer     | Adishree Gupta  | Sprint facilitation, Agile documentation, development contributions , Machine Learning|
+| Developer                    | Akshat          | Gameplay Features , Testing                      |
 | Developer                    | Monica M        | UI/UX Design, Gameplay Features                |
 | Developer                    | Aditya Sharma   | Dataset Curation, Preprocessing                |
 
