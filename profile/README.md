@@ -85,7 +85,7 @@ Our vision is to extend the project by:
 ---
 ##  8. View the Project
 Click here to explore the full project repository:  
-👉 [Traffic Sign Recognition Demo](https://github.com/SignSprinters/Traffic-Sign-Recognition-Demo)
+👉 [Traffic Sign Recognition Demo](https://github.com/SignSprinters/SignSprinters-Traffic-Sign-Recognition-Demo-Software-Engineering-Project)
 
 ---
 
