@@ -83,13 +83,13 @@ Our vision is to extend the project by:
 - Exploring applications in **autonomous driving research and smart city systems**.  
 
 ---
-## 🔗 View the Project
+##  8. View the Project
 Click here to explore the full project repository:  
 👉 [Traffic Sign Recognition Demo](https://github.com/SignSprinters/Traffic-Sign-Recognition-Demo)
 
 ---
 
-## 8. Conclusion
+## 9. Conclusion
 **SignSprinters** represents how a motivated team of students can apply **engineering discipline, innovation, and Agile values** to create meaningful solutions.  
 
 This project is more than an academic exercise—it is a showcase of how software engineering can combine with AI to **educate, engage, and inspire real-world impact**.  
