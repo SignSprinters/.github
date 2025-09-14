@@ -1,6 +1,6 @@
 # SignSprinters – Traffic Sign Recognition Demo (TSRS)
 
-![Banner](assets/banner.jpg)
+![Banner](assets/banner.png)
 
 ![Built with Python](https://img.shields.io/badge/Python-3.10-blue) 
 ![Agile](https://img.shields.io/badge/Agile-Scrum-green) 
